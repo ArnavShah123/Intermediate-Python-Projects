@@ -20,7 +20,7 @@ This repository contains small but meaningful Python projects designed for learn
 
 ## How to Use This Repository
 
-### 1. Clone the Repo
+1. **Clone the Repo**
    ```bash
    git clone https://github.com/ArnavShah123/Intermediate-Python-Projects.git
    cd Intermediate-Python-Projects

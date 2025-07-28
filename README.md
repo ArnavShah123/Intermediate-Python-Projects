@@ -31,7 +31,7 @@ This repository contains small but meaningful Python projects designed for learn
   ```bash
   python project_name.py
 
-  ### 3. Check Required Files
+ ### 3. Check Required Files
 - Make sure `events.txt` exists for the Countdown Calendar.
 - Make sure `capital_data.txt` exists for the Capital City Finder.
 - These files are stored in their respective project folders.
